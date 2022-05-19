@@ -1,0 +1,26 @@
+{
+    "lyrics": {
+        "song": [
+            {
+                "name": "Я роняю запад",
+                "text": "Я роняю Запад, у! Я роняю Запад, эй!\\nЯ роняю Запад (esketit!) Я роняю Запад, эй!\\nЯ ронняю Запад, у! Я роняю Запад, а!",
+                "songInfo": {
+                    "singer": "Face",
+                    "like": "1839233",
+                    "tags": "Патриотизм"
+                },
+                "_number": "1"
+            },
+            {
+                "name": "Uno",
+                "text": "It's gonna take more than one Margarita\\nI'm gonna call you my sweet señorita\\nI'm gonna leave after night only whith ya\\nAll you have to do is to be ready for some\\naction now...",
+                "songInfo": {
+                    "singer": "LittleBig",
+                    "like": "1",
+                    "tags": "Eurovision"
+                },
+                "_number": "2"
+            }
+        ]
+    }
+}
