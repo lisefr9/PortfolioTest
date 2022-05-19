@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<lyrics>
+	<song number = "1">
+		<name><h2>Я роняю запад</h2></name>
+		<text><p>Я роняю Запад, у! Я роняю Запад, эй!
+		<br>Я роняю Запад (esketit!) Я роняю Запад, эй!
+		<br>Я ронняю Запад, у! Я роняю Запад, а!</text>
+	<songInfo>
+		<singer><p>Face</singer>
+		<like><br>1839233</like>
+		<tags><br>Патриотизм</tags>
+	</songinfo>
+	</song>
+	<song number = "2">
+		<name><h2>Uno</h2></name>
+		<text><p>It's gonna take more than one Margarita
+		<br>I'm gonna call you my sweet señorita
+		<br>I'm gonna leave after night only whith ya
+		<br>All you have to do is to be ready for some
+		<br>action now...</text>
+	<songInfo>
+		<singer><p>LittleBig</singer>
+		<like><br>1</like>
+		<tags><br>Eurovision</tags>
+	</songInfo>
+	</song>
+</lyrics>
+
+	
